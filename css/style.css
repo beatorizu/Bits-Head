@@ -1,0 +1,26 @@
+:root {
+    font-family: 'Press Start 2P', cursive;
+    color: #f3ffea;
+    font-size: 16px;
+}
+
+body {
+    background: #07080c;
+    margin-left: 5rem;
+}
+
+h1, h2 {
+    color: #86c06c;
+}
+
+footer, section {
+    margin-bottom: 10vh;
+}
+
+a:link {
+    color: #e0f8cf;
+}
+
+a:visited {
+    color: #306850;
+}
